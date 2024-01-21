@@ -1,0 +1,11 @@
+{
+
+  "TOKEN": "MTE4OTEwOTUyMzE5NDA2OTA3NQ.GUrU0_.8D3kkfizyfypUl2C1VpSMcxHAkqV4PqNtJ_6FA",
+
+  "PREFIX": "a!",
+
+  "admin": ["782061324246450178", "794865896409530398"],
+
+  "MONGOURL": "mongodb+srv://Fauzan08: password@cluster0.ju3njpp.mongodb.net/Fauzan08?retryWrites=true&w=majority"
+
+}
